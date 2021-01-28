@@ -13,9 +13,7 @@
 		
 		</header>
 		
-    <center><a href="index.html" style="color:#000000" class="button">Sa ii dăm bice!!!</a></center>
-
-		<center><button style="width:70px;height:30px; " onclick="window.location.href='index.html'">START</button></center>
+    		<center><a href="index.html" style="color:#000000" class="button">Sa ii dăm bice!!!</a></center>
 		
 		<footer>
 			<div class="pull-right">Și deservește culturii generale</div>
